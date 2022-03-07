@@ -1,0 +1,634 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "line": 3,
+        "name": "Home PAge",
+        "description": "",
+        "id": "purchase-a-dresses-in-automation-appilication;home-page",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 10547168100,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "user Open The Appilication",
+            "match": {
+              "location": "Automation_Step_Definition.user_Open_The_Appilication()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 3866575100,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "user Click On The Sighn In Button It Naviagate Login Page",
+            "match": {
+              "location": "Automation_Step_Definition.user_Click_On_The_Sighn_In_Button_It_Naviagate_Login_Page()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "line": 9,
+        "name": "Login Page",
+        "description": "",
+        "id": "purchase-a-dresses-in-automation-appilication;login-page",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 1730650800,
+              "status": "passed"
+            },
+            "line": 11,
+            "name": "user Enter The Username In The Username Field",
+            "match": {
+              "location": "Automation_Step_Definition.user_Enter_The_Username_In_The_Username_Field()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 335961800,
+              "status": "passed"
+            },
+            "line": 13,
+            "name": "user Enter The Passeord In The Password Field",
+            "match": {
+              "location": "Automation_Step_Definition.user_Enter_The_Passeord_In_The_Password_Field()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 2885756600,
+              "status": "passed"
+            },
+            "line": 15,
+            "name": "user click The Sign In Button And It Navigate To My Account Page",
+            "match": {
+              "location": "Automation_Step_Definition.user_click_The_Sign_In_Button_And_It_Navigate_To_My_Account_Page()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "line": 17,
+        "name": "Women",
+        "description": "",
+        "id": "purchase-a-dresses-in-automation-appilication;women",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 3575540700,
+              "status": "passed"
+            },
+            "line": 19,
+            "name": "user Click On The Women Button And it Naviagte To Womens Page",
+            "match": {
+              "location": "Automation_Step_Definition.user_Click_On_The_Women_Button_And_it_Naviagte_To_Womens_Page()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 5755907500,
+              "status": "passed"
+            },
+            "line": 21,
+            "name": "user click The Faded Short Sleeve Image And It Naviagate To Faded Short Sleeve Page Frame",
+            "match": {
+              "location": "Automation_Step_Definition.user_click_The_Faded_Short_Sleeve_Image_And_It_Naviagate_To_Faded_Short_Sleeve_Page_Frame()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 203461400,
+              "status": "passed"
+            },
+            "line": 23,
+            "name": "user Enter The Qty In The Qty Text Box",
+            "match": {
+              "location": "Automation_Step_Definition.user_Enter_The_Qty_In_The_Qty_Text_Box()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 406259200,
+              "status": "passed"
+            },
+            "line": 25,
+            "name": "user Select The Size In Size",
+            "match": {
+              "location": "Automation_Step_Definition.user_Select_The_Size_In_Size()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 397437700,
+              "status": "passed"
+            },
+            "line": 27,
+            "name": "user Click The Add To Cart Button and It Naviagte To Shopping Cart",
+            "match": {
+              "location": "Automation_Step_Definition.user_Click_The_Add_To_Cart_Button_and_It_Naviagte_To_Shopping_Cart()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 4106305800,
+              "status": "passed"
+            },
+            "line": 29,
+            "name": "user Click The Proceed To Checkout Button and It Naviagte To Shiping Cart Summary Page",
+            "match": {
+              "location": "Automation_Step_Definition.user_Click_The_Proceed_To_Checkout_Button_and_It_Naviagte_To_Shiping_Cart_Summary_Page()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 1838992600,
+              "status": "passed"
+            },
+            "line": 31,
+            "name": "user Click The Proceed To Checkout Button and It Naviagte To Addresses Page",
+            "match": {
+              "location": "Automation_Step_Definition.user_Click_The_Proceed_To_Checkout_Button_and_It_Naviagte_To_Addresses_Page()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 6973658200,
+              "status": "passed"
+            },
+            "line": 33,
+            "name": "user Click The Proceed To Checkout Button and It Naviagte To Shpping Page",
+            "match": {
+              "location": "Automation_Step_Definition.user_Click_The_Proceed_To_Checkout_Button_and_It_Naviagte_To_Shpping_Page()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 229882800,
+              "status": "passed"
+            },
+            "line": 35,
+            "name": "user Click The Terms And Service Radio Button",
+            "match": {
+              "location": "Automation_Step_Definition.user_Click_The_Terms_And_Service_Radio_Button()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 1615536100,
+              "status": "passed"
+            },
+            "line": 37,
+            "name": "user Click The Proceed To Checkout Button and It Naviagte To Payment Page",
+            "match": {
+              "location": "Automation_Step_Definition.user_Click_The_Proceed_To_Checkout_Button_and_It_Naviagte_To_Payment_Page()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 1543474900,
+              "status": "passed"
+            },
+            "line": 39,
+            "name": "user Click The Bank Wire Button and It Naviagte To Order Summary Page",
+            "match": {
+              "location": "Automation_Step_Definition.user_Click_The_Bank_Wire_Button_and_It_Naviagte_To_Order_Summary_Page()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 2582149500,
+              "status": "passed"
+            },
+            "line": 41,
+            "name": "user Click the Confirm Button and It Navigate To Order Confirmation Page",
+            "match": {
+              "location": "Automation_Step_Definition.user_Click_the_Confirm_Button_and_It_Navigate_To_Order_Confirmation_Page()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 3118829600,
+              "status": "passed"
+            },
+            "line": 43,
+            "name": "user Click The SignOut Button And It Will Naviagte To Login Page",
+            "match": {
+              "location": "Automation_Step_Definition.user_Click_The_SignOut_Button_And_It_Will_Naviagte_To_Login_Page()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "line": 45,
+        "name": "Login Page",
+        "description": "",
+        "id": "purchase-a-dresses-in-automation-appilication;login-page",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 347738000,
+              "status": "passed"
+            },
+            "line": 47,
+            "name": "user Enter The Username In The Username Text Box",
+            "match": {
+              "location": "Automation_Step_Definition.user_Enter_The_Username_In_The_Username_Text_Box()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 367927600,
+              "status": "passed"
+            },
+            "line": 49,
+            "name": "user Enter The Passeord In The Password Text Box",
+            "match": {
+              "location": "Automation_Step_Definition.user_Enter_The_Passeord_In_The_Password_Text_Box()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 1909419000,
+              "status": "passed"
+            },
+            "line": 51,
+            "name": "user click The Sign In Button And It Navigate To My Accounts Page",
+            "match": {
+              "location": "Automation_Step_Definition.user_click_The_Sign_In_Button_And_It_Navigate_To_My_Accounts_Page()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "line": 53,
+        "name": "Dressed",
+        "description": "",
+        "id": "purchase-a-dresses-in-automation-appilication;dressed",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 3565851300,
+              "status": "passed"
+            },
+            "line": 55,
+            "name": "user Click on The Dresses Button And it Naviagte To Dresses Page",
+            "match": {
+              "location": "Automation_Step_Definition.user_Click_on_The_Dresses_Button_And_it_Naviagte_To_Dresses_Page()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 679911800,
+              "status": "passed"
+            },
+            "line": 57,
+            "name": "user click The Printed Dress Image And It Naviagate To Printed Dress Frame",
+            "match": {
+              "location": "Automation_Step_Definition.user_click_The_Printed_Dress_Image_And_It_Naviagate_To_Printed_Dress_Frame()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 1823655000,
+              "status": "passed"
+            },
+            "line": 59,
+            "name": "user click The Add To Cart Button and it Naviagte To Shopping Cart",
+            "match": {
+              "location": "Automation_Step_Definition.user_click_The_Add_To_Cart_Button_and_it_Naviagte_To_Shopping_Cart()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 3147358200,
+              "status": "passed"
+            },
+            "line": 61,
+            "name": "user Click The Proceed To Checkout Button and It Naviagte To The Shiping Cart Summary Page",
+            "match": {
+              "location": "Automation_Step_Definition.user_Click_The_Proceed_To_Checkout_Button_and_It_Naviagte_To_The_Shiping_Cart_Summary_Page()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 1696707200,
+              "status": "passed"
+            },
+            "line": 63,
+            "name": "user Click The Proceed To Checkout Button and It Naviagte To the Addresses Page",
+            "match": {
+              "location": "Automation_Step_Definition.user_Click_The_Proceed_To_Checkout_Button_and_It_Naviagte_To_the_Addresses_Page()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 1646497800,
+              "status": "passed"
+            },
+            "line": 65,
+            "name": "user Click The Proceed To Checkout Button and It Naviagte To the Shpping Page",
+            "match": {
+              "location": "Automation_Step_Definition.user_Click_The_Proceed_To_Checkout_Button_and_It_Naviagte_To_the_Shpping_Page()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 230040200,
+              "status": "passed"
+            },
+            "line": 67,
+            "name": "user Click The Terms And click the Service Radio Button",
+            "match": {
+              "location": "Automation_Step_Definition.user_Click_The_Terms_And_click_the_Service_Radio_Button()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 1614451400,
+              "status": "passed"
+            },
+            "line": 69,
+            "name": "user Click The Proceed To Checkout Button and It Naviagte To the Paeyment Page",
+            "match": {
+              "location": "Automation_Step_Definition.user_Click_The_Proceed_To_Checkout_Button_and_It_Naviagte_To_the_Paeyment_Page()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 1509356600,
+              "status": "passed"
+            },
+            "line": 71,
+            "name": "user Click The Bank Wire Button and It Naviagte To the Order Summary Page",
+            "match": {
+              "location": "Automation_Step_Definition.user_Click_The_Bank_Wire_Button_and_It_Naviagte_To_the_Order_Summary_Page()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 3219684700,
+              "status": "passed"
+            },
+            "line": 73,
+            "name": "user Click the Confirm Button and It Navigate To the Order Confirmation Page",
+            "match": {
+              "location": "Automation_Step_Definition.user_Click_the_Confirm_Button_and_It_Navigate_To_the_Order_Confirmation_Page()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 3119611200,
+              "status": "passed"
+            },
+            "line": 75,
+            "name": "user Click The SignOut Button And It Will Naviagte To the Login Page",
+            "match": {
+              "location": "Automation_Step_Definition.user_Click_The_SignOut_Button_And_It_Will_Naviagte_To_the_Login_Page()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "line": 78,
+        "name": "Login Page",
+        "description": "",
+        "id": "purchase-a-dresses-in-automation-appilication;login-page",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 458874800,
+              "status": "passed"
+            },
+            "line": 80,
+            "name": "user Enter The Username In To  The Username Text Box",
+            "match": {
+              "location": "Automation_Step_Definition.user_Enter_The_Username_In_To_The_Username_Text_Box()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 236742100,
+              "status": "passed"
+            },
+            "line": 82,
+            "name": "user Enter The Passeord In To The Password Text Box",
+            "match": {
+              "location": "Automation_Step_Definition.user_Enter_The_Passeord_In_To_The_Password_Text_Box()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 2301308600,
+              "status": "passed"
+            },
+            "line": 84,
+            "name": "user click The Sign In Button And It Navigate To The My Account Page",
+            "match": {
+              "location": "Automation_Step_Definition.user_click_The_Sign_In_Button_And_It_Navigate_To_The_My_Account_Page()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "line": 86,
+        "name": "T-Shirts",
+        "description": "",
+        "id": "purchase-a-dresses-in-automation-appilication;t-shirts",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 2259118100,
+              "status": "passed"
+            },
+            "line": 88,
+            "name": "user Click on The T-Shirts Button And it Naviagte To T-shirts Page",
+            "match": {
+              "location": "Automation_Step_Definition.user_Click_on_The_T_Shirts_Button_And_it_Naviagte_To_T_shirts_Page()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 5457727300,
+              "status": "passed"
+            },
+            "line": 90,
+            "name": "user click The Faded T-Shirt Image And It NAviagate To Faded T-Shirt Page Frame",
+            "match": {
+              "location": "Automation_Step_Definition.user_click_The_Faded_T_Shirt_Image_And_It_NAviagate_To_Faded_T_Shirt_Page_Frame()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 5319250500,
+              "status": "passed"
+            },
+            "line": 92,
+            "name": "user click The Add To Cart Button and it Naviagte To the Shopping Cart",
+            "match": {
+              "location": "Automation_Step_Definition.user_click_The_Add_To_Cart_Button_and_it_Naviagte_To_the_Shopping_Cart()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 3474743700,
+              "status": "passed"
+            },
+            "line": 94,
+            "name": "user Click The Proceed To The Checkout Button and It Naviagte To Shiping Cart Summary Page",
+            "match": {
+              "location": "Automation_Step_Definition.user_Click_The_Proceed_To_The_Checkout_Button_and_It_Naviagte_To_Shiping_Cart_Summary_Page()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 1611498300,
+              "status": "passed"
+            },
+            "line": 96,
+            "name": "user Click The Proceed To The Checkout Button and It Naviagte To Addresses Page",
+            "match": {
+              "location": "Automation_Step_Definition.user_Click_The_Proceed_To_The_Checkout_Button_and_It_Naviagte_To_Addresses_Page()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 1812075400,
+              "status": "passed"
+            },
+            "line": 98,
+            "name": "user Click The Proceed To The Checkout Button And It Naviagte To Shpping Page",
+            "match": {
+              "location": "Automation_Step_Definition.user_Click_The_Proceed_To_The_Checkout_Button_And_It_Naviagte_To_Shpping_Page()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 236431700,
+              "status": "passed"
+            },
+            "line": 100,
+            "name": "user Click The Terms And Service The Radio Button",
+            "match": {
+              "location": "Automation_Step_Definition.user_Click_The_Terms_And_Service_The_Radio_Button()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 1546542500,
+              "status": "passed"
+            },
+            "line": 102,
+            "name": "user Click The Proceed To The Checkout Button and It Naviagte To Payment Page",
+            "match": {
+              "location": "Automation_Step_Definition.user_Click_The_Proceed_To_The_Checkout_Button_and_It_Naviagte_To_Payment_Page()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 1891434700,
+              "status": "passed"
+            },
+            "line": 104,
+            "name": "user Click The Payment Bank Wire Button and It Naviagte To Order Summary Page",
+            "match": {
+              "location": "Automation_Step_Definition.user_Click_The_Payment_Bank_Wire_Button_and_It_Naviagte_To_Order_Summary_Page()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 2793370900,
+              "status": "passed"
+            },
+            "line": 106,
+            "name": "user Click the I Confirm Button and It Navigate To Order Confirmation Page",
+            "match": {
+              "location": "Automation_Step_Definition.user_Click_the_I_Confirm_Button_and_It_Navigate_To_Order_Confirmation_Page()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 3796321500,
+              "status": "passed"
+            },
+            "line": 108,
+            "name": "user Click To The SignOut Button And It  Naviagte To Login Page",
+            "match": {
+              "location": "Automation_Step_Definition.user_Click_To_The_SignOut_Button_And_It_Naviagte_To_Login_Page()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      }
+    ],
+    "name": "Purchase A Dresses In Automation Appilication",
+    "description": "",
+    "id": "purchase-a-dresses-in-automation-appilication",
+    "keyword": "Feature",
+    "uri": "src/test/java/com/feature/Automation.feature"
+  }
+]
